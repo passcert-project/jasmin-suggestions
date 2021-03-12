@@ -12,7 +12,7 @@ This is a list of suggestions of new features for Jasmin or updates/fixes that t
     ```
     one could use
     ```
-    a = [1,5,2];
+    a = [1,5,3];
     ```
 2) The following error message should be more explicit regarding the variable name: *"Register allocation at line line 7: variable  _14.180 must be allocated to conflicting register RAX.61"*
 
